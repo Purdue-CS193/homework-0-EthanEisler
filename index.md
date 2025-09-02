@@ -26,6 +26,11 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+# Heading I Created
+
+- CS 193 teaches me practical skills
+- CS 193 is chill
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
